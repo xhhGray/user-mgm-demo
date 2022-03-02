@@ -1,2 +1,2 @@
 # user-mgm-demo
-react+hooks++express+sequelize
+react+hooks+express+sequelize
